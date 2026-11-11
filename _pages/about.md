@@ -20,4 +20,4 @@ Research Interests
 
 News
 ======
-- **Nov 2026** — Submitted a paper to CVPR 2027.
+<!-- Example: - **Jun 2027** — Our paper was accepted to CVPR 2027. -->
